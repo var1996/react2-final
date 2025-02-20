@@ -56,7 +56,7 @@ export default async function DestinationPage({
               
 
         <section className="space-y-4">
-          <h2 className="text-2xl font-bold">Amazing Facts</h2>
+          <h2 className="text-2xl font-bold">Fun Facts</h2>
           <ul className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             {destination.facts.map((fact, index) => (
               <li key={index} className="p-4 rounded-lg bg-muted">
@@ -67,7 +67,7 @@ export default async function DestinationPage({
         </section>
 
         <section className="grid gap-8">
-          <h2 className="text-2xl font-bold">Destinations</h2>
+          <h2 className="text-2xl font-bold">Places Worth Visitings</h2>
           <div className="grid grid-cols-3 gap-6">
 
             {destination.places.map(({ title, description }, i) => (
