@@ -6,7 +6,12 @@ export default async function About() {
             About us
           </h1>
           <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-          Integer gravida condimentum odio fermentum volutpat. Curabitur eu ipsum nec sapien iaculis semper. Quisque ultricies, ipsum non aliquam tincidunt, lacus ipsum luctus eros, at porta nibh mi sit amet urna. Nunc hendrerit purus dui, vitae pellentesque ante consequat id. Nunc a luctus dolor. Phasellus ut dolor finibus ligula rutrum laoreet quis id ex. Phasellus nec est et quam viverra fringilla in eu orci. Praesent ultrices, lacus id porta laoreet, nisl nisi auctor augue, quis auctor orci dolor in dolor. Nunc lobortis porttitor orci, sed iaculis augue tincidunt vitae. Donec ornare enim vitae ligula tempus fringilla. Donec posuere augue ut risus tincidunt, ut rhoncus nibh congue. Mauris eleifend lorem ut metus malesuada, eget lacinia nibh vestibulum. Praesent sed iaculis ligula. Donec accumsan convallis ante sit amet convallis. Suspendisse id maximus neque. Ut non pretium leo.
+    Welcome to my travel blog dedicated to uncovering the hidden beauty of the world, starting with the places closest to my heart.
+This platform was born from a deep love for exploration and a desire to share the wonders of Zimbabwe, Mauritius, and my other home country. These destinations, rich in history, culture, and breathtaking landscapes, deserve to be celebrated and experienced by travelers far and wide.
+Here, you’ll find curated recommendations of must-visit locations, iconic landmarks, and local gems that make each country unique. As the blog grows, I plan to introduce restaurant and activity guides, giving visitors an authentic taste of each destination.
+This isn’t just a travel blog; it’s a journey of discovery, a love letter to my homelands, and an invitation for you to experience their magic. Whether you’re planning your next adventure or simply exploring from afar, I hope this space inspires you to see the world through a new lens.
+Join me in celebrating the beauty of travel, one destination at a time.
+
           </p>
         </div>
       </div>
