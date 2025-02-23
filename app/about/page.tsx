@@ -1,6 +1,3 @@
-import { notFound } from "next/navigation"
-import Image from "next/image"
-
 export default async function About() {
     return (
       <div className="space-y-8">
